@@ -1,0 +1,28 @@
+<resources>
+    <string name="अ">अ</string>
+    <string name="आ">आ</string>
+    <string name="इ">इ</string>
+    <string name="ई">ई</string>
+    <string name="उ">उ</string>
+    <string name="ऊ">ऊ</string>
+    <string name="ऋ">ऋ</string>
+    <string name="ए">ए</string>
+    <string name="ऐ">ऐ</string>
+    <string name="ओ">ओ</string>
+    <string name="औ">औ</string>
+    <string name="क">क</string>
+    <string name="ख">ख</string>
+    <string name="ग">ग</string>
+    <string name="घ">घ</string>
+
+    <string name="reset">Reset</string>
+    <string name="add_new_">Add New </string>
+    <string name="rate_app">Rate App</string>
+    <string name="share_app">Share App</string>
+   
+
+    <string name="app_name">Final</string>
+    <string name="privacy_policy">Hey There</string>
+    
+    
+</resources>
